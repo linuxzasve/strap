@@ -33,6 +33,16 @@ p {text-align:justify;}
 
 .footer{position:absolute;bottom:0;width:100%;height:300px;}
 
+code{
+display: block;
+font-family: 'Source Code Pro','Consolas',monospace;
+background: none repeat scroll 0% 0% rgb(230, 241, 246);
+color: rgb(109, 96, 84);
+border-radius: 7px;
+padding: 10px;
+margin: 5px;
+}
+
 @media all and (max-width:670px) 
 {
 .nav{position:absolute;top:15px;right:10%;display:inline-block;color:#545454;width:28px;height:28px;padding:5px;border:1px solid #d8d8d8;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
