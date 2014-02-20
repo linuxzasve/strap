@@ -5,7 +5,7 @@ h2 {color:#2c2c2c;z-index:0}
 p {text-align:justify;}
 
 .header {position:absolute;top:0;left:0;width:100%;height:80px;background-color:#ffffff;border-bottom:1px solid #989898;z-index:999}
-.main {position:absolute;top:61px;padding-bottom:300px;}
+.main {position:absolute;top:61px;padding-bottom:300px;width:100%;}
 .container {display:block;width:80%;margin:auto;padding-top:20px;}
 
 .logo {position:absolute;top:2px;left:10%;max-width:75px;max-height:75px;}
